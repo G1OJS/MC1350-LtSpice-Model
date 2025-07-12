@@ -9,8 +9,8 @@ The schematic below is based on one in the data sheet. I've also drawn the sugge
 ##  Power Gain and AGC Test Circuit (10.7MHz)
 ![MC1350 test circuit 2](https://github.com/user-attachments/assets/4036d1de-67e7-4f97-b42e-94d1e706ed44)
 
-## Single-Ended Input Admittance
+## Single-Ended Input Admittance I(C1)/V(in)
 ![MC1350 Single-Ended Input Admittance](https://github.com/user-attachments/assets/87c2c8c3-2850-4303-86db-da2b638b6b5a)
 
-## Forward Transfer Admittance
+## Forward Transfer Admittance I(R4)/Vin
 ![MC1350 Forward Transfer Admittance](https://github.com/user-attachments/assets/35161001-bdcc-4029-9471-25285748fcd1)
